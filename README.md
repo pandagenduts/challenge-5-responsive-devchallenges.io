@@ -46,9 +46,7 @@ I learn about layouting with grid and fitting an image on this project. Check th
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I) was to build a static HTML page to complete the following user stories:
 
-- [x] User story: I can see a recipe with ingredients and instructions
-- [x] User story: I can select a checkbox if I have the ingredients
-- [x] User story: I can see the number of servings, baking times
+- [x] User story: I can see a page following the given design
 
 ## Contact
 
