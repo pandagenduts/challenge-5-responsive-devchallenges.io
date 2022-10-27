@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://startling-stardust-be47b5.netlify.app/" target="_blank">
+    <a href="https://pandagenduts-gallery-devchallenges.netlify.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
@@ -35,7 +35,7 @@
 
 ## Overview
 
-I learn about layouting with grid and fitting an image on this project. Check the [demo](https://startling-stardust-be47b5.netlify.app/) on how i did it :)
+I learn about layouting with grid and fitting an image on this project. Check the [demo](https://pandagenduts-gallery-devchallenges.netlify.app/) on how i did it :)
 
 ### Built With
 
